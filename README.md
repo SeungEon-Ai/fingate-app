@@ -1,6 +1,6 @@
 # fingate_app_mobile
 
-A new Flutter project.
+주식뉴스 AI 요약 앱
 
 ## Getting Started
 
